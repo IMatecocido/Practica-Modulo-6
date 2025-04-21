@@ -15,6 +15,6 @@ public class Componente2 : MonoBehaviour
     void Update()
     {
         Instantiate(Cubo);
-        Cubo.transform.position = new Vector3 (0,0,5)
+        Cubo.transform.position = new Vector3(0, 0, 5);
     }
 }
